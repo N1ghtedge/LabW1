@@ -3,7 +3,7 @@ import android.util.Log
 
 class Hedgehog : Animal(aVoice = 5) {
     override fun voice(name: String) {
-        Log.d(name, "voice")
+        Log.d(name, "Фиркання")
         super.voice(name)
     }
 

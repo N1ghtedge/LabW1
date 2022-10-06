@@ -3,7 +3,7 @@ import android.util.Log
 
 class Badger: Animal(aVoice = 3) {
     override fun voice(name: String) {
-        Log.d(name, "voice")
+        Log.d(name, "Шипить")
         super.voice(name)
     }
 
