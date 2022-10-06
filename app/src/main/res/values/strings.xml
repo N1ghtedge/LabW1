@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="next">NEXT_ACTIVITY</string>
+    <string name="hedgehog_voice">Їжак звук</string>
+    <string name="hedgehog_hide">Їжак обернутись в клубок</string>
+    <string name="badger_voice">Борсук звук</string>
+    <string name="badger_burrow">Борсук закопування</string>
+    <string name="hawk_voice">Яструб звук</string>
+    <string name="hawk_fly">Яструб політ</string>
+</resources>
